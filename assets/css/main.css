@@ -2572,7 +2572,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		postiion: relative;
+		position: relative;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
@@ -2718,7 +2718,7 @@ input, select, textarea {
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #f2eabb;
+				background-color: #f5f1da;
 			}
 
 			.tiles article.style5 > .image:before {
@@ -2726,7 +2726,15 @@ input, select, textarea {
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #8499e7;
+				background-color: #a7aba8;
+			}
+
+			.tiles article.style7 > .image:before {
+				background-color: #b9d6c0;
+			}
+
+			.tiles article.style8 > .image:before {
+				background-color: #b7dde4;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
